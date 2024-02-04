@@ -12,7 +12,7 @@
 
 ## Alessandro, the Code Philosopher👋
 
-Greetings! I'm a dedicated philosopher 📜 navigating the intricate landscapes of Software Engineering 🖥️  at La Sapienza in Rome! 🎓
+Greetings! I'm a dedicated philosopher 📜 navigating the intricate landscapes of Software Engineering 🖥️ in  La Sapienza of Rome! 🎓
 
 Embark on this philosophical coding odyssey with me, where I ponder code with:
 
