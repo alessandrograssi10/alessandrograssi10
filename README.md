@@ -10,7 +10,7 @@ Welcome to the enchanted realm of code sorcery, where bugs fear to tread and alg
 
 <div align="left">
 
-## About Me, The Code Poet 📜👋
+## I'm a Wizard Coder🧙‍♂👋
 
 Greetings! I'm Alessandro, a passionate Software Engineering student in La Sapienza of Rome! 🎓
 
@@ -26,7 +26,7 @@ Embark on this magical coding journey with me, where I meticulously craft spells
 
 <div align="left">
   
-## Potion Arsenal 🧪🛠️
+## 🛠️🧪Potion Arsenal 🧪🛠️
 
 Get ready, as I frequently unleash my power with these magical potions: <br>
 
@@ -37,7 +37,7 @@ Get ready, as I frequently unleash my power with these magical potions: <br>
 
 <div align="left">
   
-## 📬 Contact the Wizard
+## 📬 Contact the Wizard📬 
 
 Need assistance or want to cast a spell together? Feel free to reach out! Send me a virtual scroll or dispatch a magical owl post.
 
