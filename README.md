@@ -2,7 +2,7 @@
 
 # 🧙‍♂️ Code Sorcery Realm 🧙‍♂️</span>
 
-Welcome to the enchanted realm of code sorcery, where bugs fear to tread and algorithms dance in a binary ballet. ✨
+Welcome to the enchanted realm of code sorcery, where bugs fear to tread and algorithms dance in a binary ballet✨
 
 </div>
 
