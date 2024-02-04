@@ -41,7 +41,7 @@ Prepare yourself, for in the course of my philosophical exploration, I have harn
 
 If you're curious to join me in this philosophical exploration of code, feel free to reach out! Send a virtual scroll or engage in a thoughtful exchange.
 
-   - Submit your philosophical ponderings: [alexgrassi@hotmail.it](alexgrassi@hotmail.it)
+   - Submit your ponderings: [alexgrassi@hotmail.it](alexgrassi@hotmail.it)
    - Connect on : www.linkedin.com/in/alegrassi10 .
 </div>
 
