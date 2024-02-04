@@ -12,7 +12,7 @@ Welcome to the enchanted realm of code sorcery, where bugs fear to tread and alg
 
 ## About Me, The Code Poet 📜👋
 
-Greetings! I'm Alessandro, a passionate Software Engineering student at La Sapienza in Rome! 🎓
+Greetings! I'm Alessandro, a passionate Software Engineering student in La Sapienza of Rome! 🎓
 
 Embark on this magical coding journey with me, where I meticulously craft spells with:
 
