@@ -1,15 +1,12 @@
 <div align="center">
 
-# 🧙‍♂️ Code Sorcery Realm 🧙‍♂️
+# 🧙‍♂️ Code Sorcery Realm 🧙‍♂️</span>
 
 Welcome to the enchanted realm of code sorcery, where bugs fear to tread and algorithms dance in a binary ballet. ✨
 
 </div>
 
-
 <br>
-<br>
-
 
 <div align="left">
 
@@ -19,9 +16,8 @@ Greetings! I'm Alessandro, a passionate Software Engineering student at La Sapie
 
 Embark on this magical coding journey with me, where I craft spells with passion and precision:
 
-1) Elegance in every line
-2) Efficiency as my guiding star
-3) A touch of mystery, occasionally leaving compilers in awe. 🤖😄
+- Elegance in every line
+- Efficiency as my guiding star
+- A touch of mystery, occasionally leaving compilers in awe. 🤖😄
 
 </div>
-
