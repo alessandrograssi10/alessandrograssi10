@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤔 PHILOSOFICAL CODING MUSINGS🤔
+# 🤔 PHILOSOFICAL CODING SPACE🤔
 
 ## Welcome to the contemplative realm of code philosophy, where algorithms ponder and bugs provoke profound inquiries! ✨
 
