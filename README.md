@@ -32,3 +32,21 @@ Get ready, as I frequently unleash my power with these magical potions: <br>
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,java,js,html,css,react)](https://skillicons.dev)
 </div>
+
+<br>
+
+<div align="left">
+## 📬 Contact the Wizard
+
+Need assistance or want to cast a spell together? Feel free to reach out! Send me a virtual scroll or dispatch a magical owl post.
+
+🦉 **Magical Mail:**
+   - Send an owl post to my tower: [alexgrassi@hotmail.it](alexgrassi@hotmail.it)
+
+🕊️ **Follow me on the Winds of the Web:**
+  
+   - LinkedIn: [Alessandro Grassi](www.linkedin.com/in/alegrassi10)
+
+Remember, every message is a spell contributing to the magic of code! 🧙‍♂️✨
+
+</div>
