@@ -10,7 +10,7 @@
 
 <div align="left">
 
-## Alessandro, the Code Philosopher👋
+## Alessandro, the Philosophic Coder👋
 
 Greetings! I'm a dedicated philosopher 📜 navigating the intricate landscapes of Software Engineering 🖥️ in  La Sapienza of Rome! 🎓
 
@@ -37,7 +37,7 @@ Prepare yourself, for in the course of my philosophical exploration, I have harn
 </div>
 
   
-## Contact the Code Philosopher 📬 
+## Contact the Philosophic Coder 📬 
 
 If you're curious to join me in this philosophical exploration of code, feel free to reach out! Send a virtual scroll or engage in a thoughtful exchange.
 
