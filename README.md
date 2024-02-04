@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧙‍♂️ Code Sorcery Realm 🧙‍♂️</span>
+# 🧙‍♂️ Code Sorcery Realm 🧙‍♂
 
 Welcome to the enchanted realm of code sorcery, where bugs fear to tread and algorithms dance in a binary ballet✨
 
@@ -36,6 +36,7 @@ Get ready, as I frequently unleash my power with these magical potions: <br>
 <br>
 
 <div align="left">
+  
 ## 📬 Contact the Wizard
 
 Need assistance or want to cast a spell together? Feel free to reach out! Send me a virtual scroll or dispatch a magical owl post.
