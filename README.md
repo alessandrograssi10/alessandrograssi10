@@ -12,9 +12,9 @@ I am committed to creating tech solutions that combine innovation and critical t
 - 🔗 [**Match Analysis**](https://github.com/alessandrograssi10): An advanced football analysis system using YOLO for player and ball tracking.  
 
 ## 🛠️ **Technical Skills**  
-- **Languages**: Python, C, JavaScript, Swift  
+- **Languages**: Python, C, Swift  
 - **Tools**: React, Node.js, Bootstrap, MongoDB, Firebase, YOLO  
-- **Focus Areas**: Generative AI, Embedded Systems  
+- **Focus Areas**: Software Engineerung, AI
 
 ## 📚 **Education**  
 - **MSc in Artificial Intelligence and Data Science**, La Sapienza (2025-2027)  
