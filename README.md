@@ -1,72 +1,29 @@
 
-<div align="center">
 
-# 🚀 ENGINEERING BEYOND THE CODE 🌍
 
-## Where software meets ambition and a passion for growth.
+# 👋 Hi, I'm Alessandro Grassi!  
 
-</div>
+🎯 **Software Engineer and AI Enthusiast**  
+I am committed to creating tech solutions that combine innovation and critical thinking, aiming to bridge the gap between science and the humanities.  
 
-<br>
+## 🚀 **Recent Projects**  
+- 🔗 [**Alpine Vision**](https://github.com/alessandrograssi10/AlpineVision): A full-stack web app for ski masks with an interactive user interface and robust data management.  
+- 🔗 [**SaveNTravel**](https://github.com/alessandrograssi10/SaveNTravel): A Fintech app to simplify expense management for group travels.  
+- 🔗 [**Match Analysis**](https://github.com/alessandrograssi10): An advanced football analysis system using YOLO for player and ball tracking.  
 
-<div align="left">
+## 🛠️ **Technical Skills**  
+- **Languages**: Python, C, JavaScript, Swift  
+- **Tools**: React, Node.js, Bootstrap, MongoDB, Firebase, YOLO  
+- **Focus Areas**: Generative AI, Embedded Systems  
 
-## Alessandro Grassi | Software Engineer 🧠💡
+## 📚 **Education**  
+- **MSc in Artificial Intelligence and Data Science**, La Sapienza (2025-2027)  
+- **BSc in Software and Automation Engineering**, La Sapienza 
 
-Hi, I'm Alessandro—an aspiring Software Engineer based in Rome, studying Software Engineering at La Sapienza University 🌍. My focus is on turning technical challenges into innovative solutions while balancing personal growth and professional development.
+## ✨ **Goals**  
+Combining technology and philosophy to create innovations that inspire critical thinkers and make the world better.
 
-I’m passionate about:
-
-- **AI & Machine Learning** 🔍
-- **Full-Stack Development** 💻
-- **Building scalable digital solutions** 🚀
-- **Combining technology, creativity, and innovation** 🌎
-
-</div>
-
-<br>
-
-<div align="left">
-
-## My Tech Toolbox 🛠️
-
-Here are some of the technologies I use to build, innovate, and solve problems:
-
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,java,html,css,react,swift,nodejs,mongodb)](https://skillicons.dev)
-
-</div>
-
-<br>
-
-<div align="left">
-
-## Featured Projects 🚀
-
-- **[ALPINE VISION](https://github.com/tequilasunrisecoder/AlpineVision)**: Full Stack Web App for ski masks, integrating server-side operations with Node.js and MongoDB.
-- **[SAVENTRAVEL](https://github.com/tequilasunrisecoder/SaveNTravel)**: iOS app for managing group travel finances using Swift and Firebase.
-- **[MATCH ANALYSIS](https://github.com/tequilasunrisecoder/MatchAnalysis)**: A Computer Vision project using YOLO and OpenCV to analyze football matches.
-
-</div>
-
-<br>
-
-<div align="left">
-
-## Connect with Me 🌐
-
-Let's collaborate or discuss new opportunities:
-
-- Email: [alexgrassi@hotmail.it](mailto:alexgrassi@hotmail.it)
-- LinkedIn: [Alessandro Grassi](https://www.linkedin.com/in/alessandrograssi10)
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🌟 Pushing boundaries, one line of code at a time 🌟
-
-</div>
-
+## 📬 **Contact Me**  
+- 📧 Email: [alessandro.grassi.jobs@gmail.com](mailto:alessandro.grassi.jobs@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/alegrassi10/)  
 
