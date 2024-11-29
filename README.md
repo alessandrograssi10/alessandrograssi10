@@ -14,7 +14,7 @@ I am committed to creating tech solutions that combine innovation and critical t
 ## 🛠️ **Technical Skills**  
 - **Languages**: Python, C, Swift  
 - **Tools**: React, Node.js, Bootstrap, MongoDB, Firebase, YOLO  
-- **Focus Areas**: Software Engineerung, AI
+- **Focus Areas**: Software Engineering, AI
 
 ## 📚 **Education**  
 - **MSc in Artificial Intelligence and Data Science**, La Sapienza (2025-2027)  
