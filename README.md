@@ -8,9 +8,8 @@ I am committed to creating tech solutions that combine innovation and critical t
 
 ## 🚀 **Recent Projects**  
 - 🔗 [**Alpine Vision**](https://github.com/alessandrograssi10/AlpineVision): A full-stack web app for ski masks with an interactive user interface and robust data management.  
-- 🔗 [**SaveNTravel**](https://github.com/alessandrograssi10/SaveNTravel): A Fintech app to simplify expense management for group travels.  
-- 🔗 [**Match Analysis**](https://github.com/alessandrograssi10): An advanced football analysis system using YOLO for player and ball tracking.  
-
+- 🔗 [**SaveNTravel**](https://github.com/alessandrograssi10/SaveNTravel): A Fintech app to simplify expense management for group travels.
+- 
 ## 🛠️ **Technical Skills**  
 - **Languages**: Python, C, Swift  
 - **Tools**: React, Node.js, Bootstrap, MongoDB, Firebase, YOLO  
