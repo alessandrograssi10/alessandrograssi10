@@ -17,7 +17,7 @@ I am committed to creating tech solutions that combine innovation and critical t
 
 ## 📚 **Education**  
 - **MSc in Artificial Intelligence and Data Science**, La Sapienza (2025-2027)  
-- **BSc in Software and Automation Engineering**, La Sapienza 
+- **BSc in Computer Science and Control Engineering**, La Sapienza 
 
 ## ✨ **Goals**  
 Combining technology and philosophy to create innovations that inspire critical thinkers and make the world better.
