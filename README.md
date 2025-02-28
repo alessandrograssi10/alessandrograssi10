@@ -12,7 +12,6 @@ I am committed to creating tech solutions that combine innovation and critical t
 - **Focus Areas**: Software Engineering, AI
 
 ## 📚 **Education**  
-- **MSc in Artificial Intelligence and Data Science**, La Sapienza (2025-2027)  
 - **BSc in Computer Science and Control Engineering**, La Sapienza 
 
 ## ✨ **Goals**  
