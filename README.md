@@ -1,23 +1,58 @@
+# 👋 Hi, I'm Alessandro Grassi!
+🎯 **Software Engineer | AI & Ethics Enthusiast | Critical Thinker**
+
+I'm passionate about building impactful, future-oriented tech products that merge **software engineering**, **AI**, and **humanistic vision**.  
+I strive to bring **ethical depth**, **interdisciplinary reasoning**, and **backend excellence** into everything I build.
 
 
 
-# 👋 Hi, I'm Alessandro Grassi!  
+## 🧠 Current Focus
 
-🎯 **Software Engineer and AI Enthusiast**  
-I am committed to creating tech solutions that combine innovation and critical thinking, aiming to bridge the gap between science and the humanities.  
+- **Backend Engineering**: FastAPI-based microservices in production environments  
+- **AI & Ethics**: Exploring AI safety, Responsible AI, RAG pipelines, and hybrid human-AI systems   
+- **Future Tech**: Interested in AI governance, automation, and tech-geopolitics  
 
+---
 
-- **Languages**: Python, C, Javacript
-- **Tools**: React, Node.js, Bootstrap, MongoDB, Firebase, YOLO  
-- **Focus Areas**: Software Engineering, AI
+## 🚀 Experience
 
-## 📚 **Education**  
-- **BSc in Computer Science and Control Engineering**, La Sapienza 
+### 🛠️ Software Engineer @ [Aevoluta](https://aevoluta.com) *(Feb 2025 – Present)*  
+Working on high-impact automation and backend projects for clients like *Il Sole 24 Ore*, *Coop*, and *IEG*.  
+- Built and maintained Python microservices with FastAPI  
+- Integrated logging, message queues (RabbitMQ), and RESTful APIs  
+- Participated in user acceptance testing and production deployment  
+---
 
-## ✨ **Goals**  
-Combining technology and philosophy to create innovations that inspire critical thinkers and make the world better.
+## 📚 Education
 
-## 📬 **Contact Me**  
-- 📧 Email: [alessandro.grassi.jobs@gmail.com](mailto:alessandro.grassi.jobs@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/alegrassi10/)  
+🎓 **BSc in Computer and Control Engineering**, La Sapienza University
 
+---
+
+## 💻 Technical Skills
+
+- **Languages**: Python, JavaScript, C++
+- **Frameworks & Libraries**: FastAPI, Node.js, React, Pydantic, Bootstrap
+- **Tools**: Docker, Git, Postman, MongoDB, Firebase, UiPath, RabbitMQ, Loki
+- **Machine Learning**: Basic ML, exploring RAG & LLMs
+- **Others**: REST APIs, OOP, modular architecture, structured logging
+
+---
+
+## 🌍 Personal Passions
+
+- 🧳 **Digital Nomad Mindset** – Exploring cultures through travel  
+- 🏋️ **Calisthenics** – Training mind & body through discipline  
+- 🧠 **Philosophy & Geopolitics** – Inspired by Lex Fridman, Ray Kurzweil, and ethical debates in AI  
+- 🗣️ **Languages** – Actively improving spoken English to C1+ fluency  
+
+---
+
+## 📬 Contact Me
+
+- 📧 [alessandro.grassi.jobs@gmail.com](mailto:alessandro.grassi.jobs@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alegrassi10/)
+
+---
+
+> _“Bridging the gap between code and conscience.”_
