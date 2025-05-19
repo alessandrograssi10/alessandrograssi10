@@ -51,7 +51,7 @@ Working on high-impact automation and backend projects for clients like *Il Sole
 ## 📬 Contact Me
 
 - 📧 [alessandro.grassi.jobs@gmail.com](mailto:alessandro.grassi.jobs@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alegrassi10/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alessandrograssi10/)
 
 ---
 
