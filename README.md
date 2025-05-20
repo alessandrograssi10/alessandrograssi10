@@ -41,8 +41,8 @@ Working on high-impact automation and backend projects for clients like *Il Sole
 
 ## 🌍 Personal Passions
 
-- 🧳 **Digital Nomad Mindset** – Exploring cultures through travel  
-- 🏋️ **Calisthenics** – Training mind & body through discipline  
+- 🌍 **Traveling** 
+- 🏋️ **Calisthenics** 
 - 🧠 **Philosophy & Geopolitics** – Inspired by Lex Fridman, Ray Kurzweil, and ethical debates in AI  
 - 🗣️ **Languages** – Actively improving spoken English to C1+ fluency  
 
