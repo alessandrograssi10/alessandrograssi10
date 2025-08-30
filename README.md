@@ -9,8 +9,8 @@ I strive to bring **ethical depth**, **interdisciplinary reasoning**, and **back
 ## 🧠 Current Focus
 
 - **Backend Engineering**: FastAPI-based microservices in production environments  
-- **AI & Ethics**: Exploring AI safety, Responsible AI, RAG pipelines, and hybrid human-AI systems   
-- **Future Tech**: Interested in AI governance, automation, and tech-geopolitics  
+- **AI & Ethics**: Exploring AI, Machine Learning, Responsible AI  
+- **Future Tech**: Interested intech-geopolitics  
 
 ---
 
@@ -43,8 +43,7 @@ Working on high-impact automation and backend projects for clients like *Il Sole
 
 - 🌍 **Traveling** 
 - 🏋️ **Calisthenics** 
-- 🧠 **Philosophy & Geopolitics** – Inspired by Lex Fridman, Ray Kurzweil, and ethical debates in AI  
-- 🗣️ **Languages** – Actively improving spoken English to C1+ fluency  
+- 🧠 **Philosophy & Geopolitics** – Inspired by Lex Fridman, Ray Kurzweil, and ethical debates in AI   
 
 ---
 
