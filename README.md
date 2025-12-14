@@ -1,57 +1,77 @@
-# 👋 Hi, I'm Alessandro Grassi!
-🎯 **Software Engineer | AI & Ethics Enthusiast | Critical Thinker**
+# 👋 Hi, I'm Alessandro Grassi
 
-I'm passionate about building impactful, future-oriented tech products that merge **software engineering**, **AI**, and **humanistic vision**.  
-I strive to bring **ethical depth**, **interdisciplinary reasoning**, and **backend excellence** into everything I build.
+**Python Software Engineer | Backend & Distributed Systems | EU Remote**
+
+I’m a Python Software Engineer working on **production backend systems** used by enterprise clients across Europe.  
+I focus on **clean architecture, reliability, and scalable services**, with hands-on experience in **microservices and event-driven systems**.
 
 
+---
 
 ## 🧠 Current Focus
 
-- **Backend Engineering**: Python as main language and FastAPI-based microservices in production environments  
-- **AI & Ethics**: Exploring AI, Machine Learning, Responsible AI  
-- **Future Tech**: Interested in tech-geopolitics  
+- Backend engineering with **Python** and **FastAPI**
+- Designing and maintaining **production microservices**
+- **Event-driven architectures** with message queues
+- AI-adjacent backend systems (automation, LLM-based services)
+- Code quality: **OOP, typing, modular design, logging**
 
 ---
 
 ## 🚀 Experience
 
-### 🛠️ Software Engineer @ [Aevoluta](https://aevoluta.com) *(Feb 2025 – Present)*  
-Working on high-impact automation and backend projects for clients like *Il Sole 24 Ore*, *Globant*, and *Stellantis*.  
-- Built and maintained Python microservices with FastAPI  
-- Integrated logging, message queues (RabbitMQ), and RESTful APIs  
-- Participated in user acceptance testing and production deployment  
+### 🛠️ Software Engineer — Aevoluta  
+*Feb 2025 – Present*
+
+- Develop and maintain **Python microservices** (FastAPI)
+- Work on **distributed systems** using **RabbitMQ**
+- Implement **structured logging and observability** (Loki, Grafana)
+- Contribute to **UAT, releases, and production deployments**
+- Collaborate on backend refactoring and architectural improvements
+
+Clients include **Il Sole 24 Ore, Globant, Stellantis**.
+
 ---
 
 ## 📚 Education
 
-🎓 **BSc in Computer and Control Engineering**, La Sapienza University
+🎓 **BSc in Computer & Control Engineering**  
+Sapienza University of Rome
 
 ---
 
-## 💻 Technical Skills
+## 💻 Tech Stack
 
-- **Languages**: Python, JavaScript, C++
-- **Frameworks & Libraries**: FastAPI, Node.js, React, Pydantic, Bootstrap
-- **Tools**: Docker, Git, Postman, MongoDB, Firebase, UiPath, RabbitMQ, Loki
-- **Machine Learning**: Basic ML, exploring RAG & LLMs
-- **Others**: REST APIs, OOP, modular architecture, structured logging
+**Languages**  
+- Python (main) · JavaScript · C++
 
----
+**Backend & Frameworks**  
+- FastAPI · Pydantic · REST APIs · Node.js  
+- Async programming · OOP · modular architecture
 
-## 🌍 Personal Passions
+**Infrastructure & Tools**  
+- Docker · Git · Postman  
+- RabbitMQ · Loki · Grafana  
+- MongoDB · Firebase · SQL 
 
-- 🌍 **Traveling** 
-- 🏋️ **Calisthenics** 
-- 🧠 **Philosophy & Geopolitics** – Inspired by Lex Fridman, Ray Kurzweil, and ethical debates in AI   
-
----
-
-## 📬 Contact Me
-
-- 📧 [alessandro.grassi.jobs@gmail.com](mailto:alessandro.grassi.jobs@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alessandrograssi10/)
+**AI / Data**  
+- LLM fundamentals · RAG concepts  
+- AI-powered automation systems
 
 ---
 
-> _“Bridging the gap between code and conscience.”_
+## 🌍 About Me
+
+- 🌍 Travel & remote-first mindset  
+- 🏋️ Calisthenics  
+- 🧠 Philosophy, geopolitics, and long-term AI impact
+
+---
+
+## 📬 Contact
+
+- 📧 alessandro.grassi.jobs@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/alessandrograssi10/
+
+---
+
