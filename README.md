@@ -8,7 +8,7 @@ I strive to bring **ethical depth**, **interdisciplinary reasoning**, and **back
 
 ## 🧠 Current Focus
 
-- **Backend Engineering**: FastAPI-based microservices in production environments  
+- **Backend Engineering**: Python as main language and FastAPI-based microservices in production environments  
 - **AI & Ethics**: Exploring AI, Machine Learning, Responsible AI  
 - **Future Tech**: Interested intech-geopolitics  
 
