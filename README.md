@@ -17,7 +17,7 @@ I strive to bring **ethical depth**, **interdisciplinary reasoning**, and **back
 ## 🚀 Experience
 
 ### 🛠️ Software Engineer @ [Aevoluta](https://aevoluta.com) *(Feb 2025 – Present)*  
-Working on high-impact automation and backend projects for clients like *Il Sole 24 Ore*, *Coop*, and *IEG*.  
+Working on high-impact automation and backend projects for clients like *Il Sole 24 Ore*, *Globant*, and *Stellantis*.  
 - Built and maintained Python microservices with FastAPI  
 - Integrated logging, message queues (RabbitMQ), and RESTful APIs  
 - Participated in user acceptance testing and production deployment  
