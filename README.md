@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Alessandro Grassi
 
-**Python Software Engineer | Backend & Distributed Systems | EU Remote**
+**Python Software Engineer | Backend & Distributed Systems | Rome, Italy 🇮🇹 · EU Remote**
 
-I’m a Python Software Engineer working on **production backend systems** used by enterprise clients across Europe.  
+I build **production backend systems** used by enterprise clients across Europe.  
 I focus on **clean architecture, reliability, and scalable services**, with hands-on experience in **microservices and event-driven systems**.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alessandrograssi10-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alessandrograssi10/)
+[![Email](https://img.shields.io/badge/Email-alessandro.grassi.jobs@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alessandro.grassi.jobs@gmail.com)
 
 ---
 
@@ -12,7 +14,7 @@ I focus on **clean architecture, reliability, and scalable services**, with hand
 
 - Backend engineering with **Python** and **FastAPI**
 - Designing and maintaining **production microservices**
-- **Event-driven architectures** with message queues
+- **Event-driven architectures** with message queues (RabbitMQ)
 - AI-adjacent backend systems (automation, LLM-based services)
 - Code quality: **OOP, typing, modular design, logging**
 
@@ -20,7 +22,7 @@ I focus on **clean architecture, reliability, and scalable services**, with hand
 
 ## 🚀 Experience
 
-### 🛠️ Software Engineer — Aevoluta  
+### 🛠️ Software Engineer — Aevoluta
 *Feb 2025 – Present*
 
 - Develop and maintain **Python microservices** (FastAPI)
@@ -29,49 +31,50 @@ I focus on **clean architecture, reliability, and scalable services**, with hand
 - Contribute to **UAT, releases, and production deployments**
 - Collaborate on backend refactoring and architectural improvements
 
-Clients include **Il Sole 24 Ore, Globant, Stellantis**.
-
----
-
-## 📚 Education
-
-🎓 **BSc in Computer & Control Engineering**  
-Sapienza University of Rome
+> Clients: **Il Sole 24 Ore · Globant · Stellantis**
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages**  
-- Python (main) · JavaScript · C++
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Backend & Frameworks**  
-- FastAPI · Pydantic · REST APIs · Node.js  
-- Async programming · OOP · modular architecture
+---
 
-**Infrastructure & Tools**  
-- Docker · Git · Postman  
-- RabbitMQ · Loki · Grafana  
-- MongoDB · Firebase · SQL 
+## 🗂️ Projects
 
-**AI / Data**  
-- LLM fundamentals · RAG concepts  
-- AI-powered automation systems
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [AlpineVision](https://github.com/alessandrograssi10/AlpineVision) | Computer vision project | Python |
+| [SaveNTravel](https://github.com/alessandrograssi10/SaveNTravel) | Travel savings app | Python / Backend |
+| [EA-Job-Simulation](https://github.com/alessandrograssi10/EA-Job-Simulation) | EA engineering job simulation | Python |
+
+---
+
+## 📚 Education
+
+🎓 **BSc in Computer & Control Engineering** — Sapienza University of Rome
+
+---
+
+## 📊 GitHub Stats
+
+![Alessandro Stats](https://github-readme-stats.vercel.app/api?username=alessandrograssi10&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrograssi10&layout=compact&hide_border=true)
 
 ---
 
 ## 🌍 About Me
 
-- 🌍 Travel & remote-first mindset  
-- 🏋️ Calisthenics  
+- 🌍 Travel & remote-first mindset
+- 🏋️ Calisthenics
 - 🧠 Philosophy, geopolitics, and long-term AI impact
 
 ---
-
-## 📬 Contact
-
-- 📧 alessandro.grassi.jobs@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/alessandrograssi10/
-
----
-
