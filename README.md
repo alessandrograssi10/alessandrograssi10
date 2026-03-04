@@ -21,7 +21,7 @@ I focus on **clean architecture, reliability, and scalable services**, with hand
 
 ## 🚀 Experience
 
-### 🛠️ Software Engineer — Aevoluta
+### 🛠️ Software Engineer — [Aevoluta](https://aevoluta.com)
 *Feb 2025 – Present*
 
 - Develop and maintain **Python microservices** (FastAPI)
@@ -51,9 +51,9 @@ I focus on **clean architecture, reliability, and scalable services**, with hand
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [AlpineVision](https://github.com/alessandrograssi10/AlpineVision) | Computer vision project | Python |
-| [SaveNTravel](https://github.com/alessandrograssi10/SaveNTravel) | Travel savings app | Python / Backend |
-| [EA-Job-Simulation](https://github.com/alessandrograssi10/EA-Job-Simulation) | EA engineering job simulation | Python |
+| [AlpineVision](https://github.com/alessandrograssi10/AlpineVision) | Modern ski resort web app (LTW project) | JavaScript · CSS · HTML |
+| [SaveNTravel](https://github.com/alessandrograssi10/SaveNTravel) | Fintech app for managing group travel finances (HCI project) | Swift |
+| [EA-Job-Simulation](https://github.com/alessandrograssi10/EA-Job-Simulation) | EA engineering job simulation | C++ |
 
 ---
 
