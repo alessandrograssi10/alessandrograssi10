@@ -30,7 +30,7 @@ I focus on **clean architecture, reliability, and scalable services**, with hand
 - Contribute to **UAT, releases, and production deployments**
 - Collaborate on backend refactoring and architectural improvements
 
-> Clients: **Il Sole 24 Ore · Globant · Stellantis**
+> Clients: **Il Sole 24 Ore · Globant · SKY UK/ITA**
 
 ---
 
