@@ -16,7 +16,6 @@ I focus on **clean architecture, reliability, and scalable services**, with hand
 - Designing and maintaining **production microservices**
 - **Event-driven architectures** with message queues (RabbitMQ)
 - AI-adjacent backend systems (automation, LLM-based services)
-- Code quality: **OOP, typing, modular design, logging**
 
 ---
 
