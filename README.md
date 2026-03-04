@@ -61,14 +61,6 @@ I focus on **clean architecture, reliability, and scalable services**, with hand
 
 🎓 **BSc in Computer & Control Engineering** — Sapienza University of Rome
 
----
-
-## 📊 GitHub Stats
-
-![Alessandro Stats](https://github-readme-stats.vercel.app/api?username=alessandrograssi10&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrograssi10&layout=compact&hide_border=true)
-
----
 
 ## 🌍 About Me
 
