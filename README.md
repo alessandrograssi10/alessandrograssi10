@@ -47,15 +47,6 @@ I focus on **clean architecture, reliability, and scalable services**, with hand
 
 ---
 
-## 🗂️ Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [AlpineVision](https://github.com/alessandrograssi10/AlpineVision) | Modern ski resort web app (LTW project) | JavaScript · CSS · HTML |
-| [SaveNTravel](https://github.com/alessandrograssi10/SaveNTravel) | Fintech app for managing group travel finances (HCI project) | Swift |
-| [EA-Job-Simulation](https://github.com/alessandrograssi10/EA-Job-Simulation) | EA engineering job simulation | C++ |
-
----
 
 ## 📚 Education
 
