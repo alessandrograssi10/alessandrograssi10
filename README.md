@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alessandro Grassi
 
-** Software Engineer | Backend & Distributed Systems | Rome, Italy 🇮🇹 · EU Remote**
+** Software Engineer | Ai Engineer | Rome, Italy 🇮🇹 · EU Remote**
 
 I build **production backend systems** used by enterprise clients across Europe.  
 I focus on **clean architecture, reliability, and scalable services**, with hands-on experience in **microservices and event-driven systems**.
