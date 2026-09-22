@@ -30,7 +30,7 @@ I focus on **clean architecture, reliability, and scalable services**, with hand
 - Contribute to **UAT, releases, and production deployments**
 - Collaborate on backend refactoring and architectural improvements
 
-> Clients: **Il Sole 24 Ore · Globant · SKY UK/ITA**
+> Clients: **Il Sole 24 Ore · Italian Exhibition Group · SKY UK/ITA**
 
 ---
 
@@ -55,7 +55,7 @@ I focus on **clean architecture, reliability, and scalable services**, with hand
 
 ## 🌍 About Me
 
-- 🌍 Travel & remote-first mindset
+- 🌍 Travel
 - 🏋️ Calisthenics
 - 🧠 Philosophy, geopolitics, and long-term AI impact
 
