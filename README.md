@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alessandro Grassi
 
-**Backend & AI Engineer · Rome, Italy 🇮🇹 · Open to EU remote**
+**Software and AI Engineer · Rome, Italy 🇮🇹 · Open to roles across the EU (on-site, hybrid or remote)**
 
 I build **production backend systems** for enterprise clients across Europe: **Python microservices**, **event-driven architectures**, and **LLM-powered services**.
 I care about clean architecture, reliability, and services that scale.
