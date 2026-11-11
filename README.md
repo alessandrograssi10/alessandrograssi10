@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alessandro Grassi
 
-**Software and AI Engineer · Rome, Italy 🇮🇹 · Open to roles across the EU (on-site, hybrid or remote)**
+**Software and AI Engineer · Italy · Open to roles across the EU (on-site, hybrid or remote)**
 
 I take **LLM-powered and data-intensive systems to production** for enterprise clients: Python/FastAPI microservices, event-driven pipelines on RabbitMQ, and Claude-based agents used by business teams every day.
 I care about reliability, measurable outcomes, and systems that keep running when nobody is watching.
