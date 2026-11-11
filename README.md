@@ -33,8 +33,8 @@ I care about reliability, measurable outcomes, and systems that keep running whe
 
 ## 🧩 Projects
 
-**[Nook](https://github.com/alessandrograssi10/nook)** — 🚧 *work in progress.* Personal AI engineering project, being rebuilt around an evaluated agent: multi-step tools, tracing, and cost/quality comparison across models.
-`FastAPI` `SQLAlchemy async` `PostgreSQL` `React 19` `TypeScript` `LLM tool calling`
+**[AI Content Discovery](https://github.com/alessandrograssi10/ai-content-discovery)** — semantic search over a movie/TV catalog: LLM metadata enrichment, embeddings and a natural-language search API, with a golden-set evaluation (**R-Precision 0.77, Recall@5 0.88**) and documented failure modes.
+`Python` `FastAPI` `OpenAI` `Embeddings` `Pydantic` `Evaluation`
 
 **[AlpineVision](https://github.com/alessandrograssi10/AlpineVision)** — team project for the Web Technologies course at Sapienza: a modern web app for a ski-mask brand.
 
